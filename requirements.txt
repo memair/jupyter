@@ -1,4 +1,4 @@
-memair==2018.7.27.0
+memair==0.1.1
 folium==0.5.0
 pandas==0.23.4
 matplotlib==2.2.2
