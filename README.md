@@ -6,3 +6,17 @@ Interactively run these notebooks with [Binder](https://mybinder.org/v2/gh/memai
 
 Create a [temporary access_token](https://memair.com/temporary_access_token) or play with with our sandbox user, Otto using the access token
 `0000000000000000000000000000000000000000000000000000000000000000`.
+
+## Installation
+
+**Clone Repo**
+
+`git clone git@github.com:memair/jupyter.git && cd jupyter`
+
+**Install Requirements**
+
+`pip install -r requirements.txt`
+
+**Run Notebook**
+
+`jupyter notebook`
